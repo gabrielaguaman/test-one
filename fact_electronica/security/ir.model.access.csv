@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_fact_electronica_fact_electronica,fact_electronica.fact_electronica,model_fact_electronica_fact_electronica,,1,0,0,0
