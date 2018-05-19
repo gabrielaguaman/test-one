@@ -1,9 +1,0 @@
-<odoo>
-    <data>
-        <template id="assets_backend" name="billing_point_sale assets" inherit_id="web.assets_backend">
-            <xpath expr="." position="inside">
-                <link rel="stylesheet" href="/billing_point_sale/static/src/css/style_css.css"/>
-            </xpath>
-        </template>
-    </data>
-</odoo>
