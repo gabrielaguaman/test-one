@@ -1,0 +1,3 @@
+addons
+custom-addons
+odoo
